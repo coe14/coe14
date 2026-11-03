@@ -1,58 +1,95 @@
-
-<p align="center">
+ <p align="center">
   <img src="./Rehima%20Yesuf.png" alt="Rehima Yesuf Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=650&height=60&lines=Software+Engineering+Student;Fullstack+Web+Developer;Tech+Enthusiast;Aspiring+Entrepreneur"
-    alt="Typing Effect"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=650&height=50&lines=Software+Engineering+Student;Fullstack+Web+Developer;Tech+Enthusiast;Aspiring+Entrepreneur" alt="Typing SVG" />
 </p>
 
 ---
 
-# Rehima Yesuf
+<h2 align="center">About Me</h2>
 
-**Fullstack Web Developer | Software Engineering Student | Tech Enthusiast**
+<p align="center">
+  I am a Software Engineering student at Wollo University with a strong interest in fullstack web development and building practical software solutions.
+</p>
 
-## About Me
+<p align="center">
+  I enjoy transforming ideas into functional applications, solving real-world problems through technology, and continuously improving my engineering skills.
+</p>
 
-I am a Software Engineering student at Wollo University with a strong interest in fullstack web development and building practical software solutions.
+---
 
-I enjoy transforming ideas into functional applications, solving real-world problems through technology, and continuously improving my engineering skills.
+<h2 align="center">Technical Skills</h2>
 
-## Areas of Interest
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" alt="Frontend Skills" />
+</p>
 
-- Fullstack Web Development
-- Software Engineering & System Design
-- Database Design and Management
-- Problem Solving
-- Technology & Entrepreneurship
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Backend Skills" />
+</p>
 
-## Technical Skills
+<h3 align="center">Database & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Database and Tools" />
+</p>
 
-**Frontend:** React, TypeScript, Tailwind CSS
+---
 
-**Backend:** Node.js, Express.js
+<h2 align="center">Current Focus</h2>
 
-**Database:** MongoDB
+<p align="center">
+  Building practical fullstack applications, strengthening backend development skills, learning software architecture, and improving database design.
+</p>
 
-**Tools:** Git, GitHub, VS Code
+---
 
-## Current Focus
+<h2 align="center">GitHub Activity</h2>
 
-- Developing practical fullstack applications.
-- Strengthening backend development skills.
-- Learning software architecture and database design.
-- Building meaningful projects for my portfolio.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=coe14&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coe14&layout=compact&hide_border=true&theme=default" alt="Most Used Languages" />
+</p>
 
-## Vision & Mission
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coe14&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
-My long-term vision is to become a successful technology entrepreneur and build innovative solutions that create meaningful opportunities for others.
+---
 
-I aspire to establish a technology-driven company that empowers women by creating accessible remote employment opportunities, enabling them to develop their skills, build independent careers, and work from anywhere.
+<h2 align="center">Vision & Mission</h2>
 
-I believe technology is more than just writing code — it is a powerful tool for creating opportunities, solving real-world problems, and making a positive impact on society.
+<p align="center">
+  My long-term vision is to become a technology entrepreneur and build innovative solutions that create meaningful opportunities for others.
+</p>
 
-**My Vision:** Building technology. Empowering women. Creating opportunities.
+<p align="center">
+  I aspire to build a technology-driven company that empowers women through accessible remote employment opportunities, helping them develop their skills and build independent careers.
+</p>
+
+<p align="center">
+  <strong>Building Technology. Empowering Women. Creating Opportunities.</strong>
+</p>
+
+---
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/coe14">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/Dvp_272022">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:rehimayesuf49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Always learning. Always building. Always growing.</sub>
+</p>
