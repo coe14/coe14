@@ -8,107 +8,56 @@
 
 ---
 
-<h1 align="center">Rehima Yesuf</h1>
-
-<h3 align="center">Software Engineering Student | Fullstack Web Developer | Tech Enthusiast</h3>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  Building practical solutions through technology and continuous learning.
+  I am a Software Engineering student at Wollo University with a strong interest in fullstack web development and building practical software solutions.
+</p>
+
+<p align="center">
+  I enjoy transforming ideas into functional applications, solving real-world problems through technology, and continuously improving my engineering skills.
 </p>
 
 ---
 
-## About Me
+<h2 align="center">Technical Skills</h2>
 
-I am a Software Engineering student at Wollo University with a strong interest in fullstack web development and building practical software solutions.
-
-I enjoy transforming ideas into functional applications, solving real-world problems through technology, and continuously improving my engineering skills.
-
-My goal is to grow as a software engineer and eventually build technology-driven solutions that create meaningful opportunities for others.
-
----
-
-## Technical Skills
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" alt="HTML, CSS, JavaScript, React, TypeScript and Tailwind CSS" />
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" alt="Frontend Skills" />
 </p>
 
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Node.js, Express.js and Java" />
+<h3 align="center">Backend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" alt="Backend Skills" />
 </p>
 
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+<h3 align="center">Database & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="Database and Tools" />
 </p>
 
 ---
 
-## Development Journey
+<h2 align="center">Current Focus</h2>
 
-I am continuously developing my skills through practical projects, experimentation, and learning.
-
-| Area | Current Focus |
-|---|---|
-| Frontend | Responsive interfaces and reusable components |
-| Backend | REST APIs and server-side development |
-| Database | Data modeling and MongoDB |
-| Software Engineering | System design and problem solving |
-| Development Tools | Git, GitHub and VS Code |
-
----
-
-## Featured Projects
-
-### Reem Car Rental
-
-A fullstack car rental application developed to practice frontend development, backend APIs, and database integration.
-
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, MongoDB.
-
-### ERTHQAH Import Management System
-
-A project focused on organizing import orders, supplier information, payments, and shipment tracking.
-
-**Technologies:** React, TypeScript, Node.js, Express.js, MongoDB.
-
-<p>
-  <a href="https://github.com/coe14?tab=repositories">
-    Explore My GitHub Repositories
-  </a>
+<p align="center">
+  Building practical fullstack applications, strengthening backend development skills, learning software architecture, and improving database design.
 </p>
 
 ---
 
-## Current Focus
-
-- Building practical fullstack web applications.
-- Strengthening backend development skills.
-- Improving database design and management.
-- Learning software architecture and system design.
-- Developing a strong software engineering portfolio.
-
 ---
 
-## Vision & Mission
+<h2 align="center">Vision & Mission</h2>
 
-My long-term vision is to become a technology entrepreneur and build innovative solutions that create meaningful opportunities for others.
+<p align="center">
+  My long-term vision is to become a technology entrepreneur and build innovative solutions that create meaningful opportunities for others.
+</p>
 
-I aspire to establish a technology-driven company that empowers women by creating accessible remote employment opportunities, enabling them to develop their skills, build independent careers, and work from anywhere.
-
-I believe technology is more than writing code. It is a powerful tool for solving problems, creating opportunities, and making a positive impact on society.
+<p align="center">
+  I aspire to build a technology-driven company that empowers women through accessible remote employment opportunities, helping them develop their skills and build independent careers.
+</p>
 
 <p align="center">
   <strong>Building Technology. Empowering Women. Creating Opportunities.</strong>
@@ -116,7 +65,7 @@ I believe technology is more than writing code. It is a powerful tool for solvin
 
 ---
 
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/coe14">
@@ -131,5 +80,5 @@ I believe technology is more than writing code. It is a powerful tool for solvin
 </p>
 
 <p align="center">
-  <sub>Always Learning | Always Building | Always Growing</sub>
+  <sub>Always learning. Always building. Always growing.</sub>
 </p>
