@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./banner.png" alt="Rehima Banner" width="100%" />
+  <img src="./Rehima%20Yesuf.png" alt="Rehima Yesuf Banner" width="100%" />
 </p>
