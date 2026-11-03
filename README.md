@@ -39,13 +39,6 @@
 
 ---
 
-<h2 align="center">Current Focus</h2>
-
-<p align="center">
-  Building practical fullstack applications, strengthening backend development skills, learning software architecture, and improving database design.
-</p>
-
----
 
 ---
 
