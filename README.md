@@ -46,7 +46,7 @@
 
 
 <p align="center">
-  <strong>Building Technology. Empowering Women. Creating Opportunities.</strong>
+  <strong> Building Technology. Empowering Women. Creating Opportunities.</strong>
 </p>
 
 ---
