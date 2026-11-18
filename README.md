@@ -44,13 +44,6 @@
 
 <h2 align="center">Vision & Mission</h2>
 
-<p align="center">
-  My long-term vision is to become a technology entrepreneur and build innovative solutions that create meaningful opportunities for others.
-</p>
-
-<p align="center">
-  I aspire to build a technology-driven company that empowers women through accessible remote employment opportunities, helping them develop their skills and build independent careers.
-</p>
 
 <p align="center">
   <strong>Building Technology. Empowering Women. Creating Opportunities.</strong>
